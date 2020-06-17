@@ -32,7 +32,7 @@ print (Fore.RED + " Warning !!! this script just created for learning python3!!!
 
 
 
-print (Fore.YELLOW + " before use please install modules requestes , colorama ,...")
+print (Fore.YELLOW + " before use please install modules requests , colorama ,...")
 
 
 
