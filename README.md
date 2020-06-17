@@ -30,6 +30,9 @@ sudo apt-get install git -y
 کلون : 
 git clone https://github.com/kinguser20204/spammer_sms
 
+وارد پوشه دانلود شده می شویم :
+cd spammer_sms && ls 
+
 نصب ماژول های مورد نیاز :
 
 
@@ -44,4 +47,4 @@ python3 spammer_sms.py
 2) termux :
 
 تمام دستورات بصورت یکجا :
-pkg update && pkg upgrade && pkg install python git && git clone https://github.com/kinguser20204/spammer_sms && pip3 install requests colorama && chmod +x spammer_sms.py && python3 spammer_sms.py
+pkg update && pkg upgrade && pkg install python git && git clone https://github.com/kinguser20204/spammer_sms  && cd spammer_sms && pip3 install requests colorama && chmod +x spammer_sms.py && python3 spammer_sms.py
